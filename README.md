@@ -24,4 +24,4 @@ Camera-based posture sensing with intervention prototypes.
 🌐 [kausarpatherya.com](https://kausarpatherya.com/) — write-ups and project pages
 🎙️ [Georgia Tech AI Podcast](https://georgiatech.ai/) — host and producer
 
-📧 [kpatherya3@gatech.edu](mailto:kpatherya3@gatech.edu) · 📄 [CV](https://kausarpatherya.com/static/Kausar-Patherya-Resume.pdf) · 🎓 [Scholar](https://scholar.google.com/citations?user=oW5xkPQAAAAJ) · 💼 [LinkedIn](https://linkedin.com/in/kpatherya)
+📧 [Email](mailto:kpatherya3@gatech.edu) · 📄 [CV](https://kausarpatherya.com/static/Kausar-Patherya-Resume.pdf) · 🎓 [Scholar](https://scholar.google.com/citations?user=oW5xkPQAAAAJ) · 💼 [LinkedIn](https://linkedin.com/in/kpatherya)

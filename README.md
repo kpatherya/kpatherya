@@ -2,8 +2,6 @@
 
 CS PhD researcher at Georgia Tech, building efficient, inspectable AI systems over multimodal data. Open to collaboration on research software, evaluation, and AI systems that need to be reproducible and inspectable.
 
-**Focus:** agentic data workflows (typed plans, validation, deterministic execution) · sensor intelligence and edge AI · efficient multimodal AI
-
 ### Projects
 
 **[Flash-Fusion](https://github.com/kpatherya/flash-fusion)**

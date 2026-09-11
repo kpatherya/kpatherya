@@ -2,10 +2,7 @@
 
 CS PhD researcher at Georgia Tech, building efficient, inspectable AI systems over structured, sensor, and multimodal data.
 
-**Focus areas:**
-- Agentic data workflows — typed plans, validation, deterministic execution
-- Sensor intelligence and edge AI
-- Efficient multimodal AI
+**Focus:** agentic data workflows (typed plans, validation, deterministic execution) · sensor intelligence and edge AI · efficient multimodal AI
 
 ---
 

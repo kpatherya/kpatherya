@@ -4,8 +4,6 @@ CS PhD researcher at Georgia Tech, building efficient, inspectable AI systems ov
 
 **Focus:** agentic data workflows (typed plans, validation, deterministic execution) · sensor intelligence and edge AI · efficient multimodal AI
 
----
-
 ### Projects
 
 **[Flash-Fusion](https://github.com/kpatherya/flash-fusion)**
@@ -23,10 +21,9 @@ Bus-fleet telemetry system: Zephyr firmware on nRF9160 ([bus-rtos](https://githu
 **[SIT-UP](https://github.com/kpatherya/situp)**
 Camera-based posture sensing with intervention prototypes.
 
----
-
 ### Reach out
 
 🌐 [kausarpatherya.com](https://kausarpatherya.com/) — write-ups and project pages
 🎙️ [Georgia Tech AI Podcast](https://georgiatech.ai/) — host and producer
+
 📧 [kpatherya3@gatech.edu](mailto:kpatherya3@gatech.edu) · 📄 [CV](https://kausarpatherya.com/static/Kausar-Patherya-Resume.pdf) · 🎓 [Scholar](https://scholar.google.com/citations?user=oW5xkPQAAAAJ) · 💼 [LinkedIn](https://linkedin.com/in/kpatherya)

@@ -1,6 +1,6 @@
 # Kausar Patherya
 
-CS PhD researcher at Georgia Tech, building efficient, inspectable AI systems over structured, sensor, and multimodal data.
+CS PhD researcher at Georgia Tech, building efficient, inspectable AI systems over structured, sensor, and multimodal data. Open to collaboration on research software, evaluation, and AI systems that need to be reproducible and inspectable.
 
 **Focus:** agentic data workflows (typed plans, validation, deterministic execution) · sensor intelligence and edge AI · efficient multimodal AI
 
@@ -29,7 +29,4 @@ Camera-based posture sensing with intervention prototypes.
 
 🌐 [kausarpatherya.com](https://kausarpatherya.com/) — write-ups and project pages
 🎙️ [Georgia Tech AI Podcast](https://georgiatech.ai/) — host and producer
-
-Open to collaboration on research software, evaluation, and AI systems that need to be reproducible and inspectable.
-
 📧 [kpatherya3@gatech.edu](mailto:kpatherya3@gatech.edu) · 📄 [CV](https://kausarpatherya.com/static/Kausar-Patherya-Resume.pdf) · 🎓 [Scholar](https://scholar.google.com/citations?user=oW5xkPQAAAAJ) · 💼 [LinkedIn](https://linkedin.com/in/kpatherya)

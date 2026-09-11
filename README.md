@@ -11,8 +11,6 @@ CS PhD researcher at Georgia Tech. I build efficient, inspectable AI systems ove
 - **[Sting-Sense](https://github.com/kpatherya/sting-sense)** — bus-fleet telemetry: Zephyr firmware on nRF9160 ([bus-rtos](https://github.com/kpatherya/bus-rtos)) plus route congestion analytics. [demo](https://sting-sense.vercel.app/)
 - **[SIT-UP](https://github.com/kpatherya/situp)** — camera-based posture sensing with intervention prototypes.
 
-Also: [ROS 2 visual-inertial mapping](https://github.com/kpatherya/quad-ugv-mapping) · [automated RL curricula](https://github.com/kpatherya/autocalc)
-
 ### Elsewhere
 
 [kausarpatherya.com](https://kausarpatherya.com/) — write-ups and project pages ·
